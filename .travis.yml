@@ -1,5 +1,6 @@
 language: c
 compiler: gcc
+sudo: enabled
 matrix:
   include:
     # works on Precise and Trusty
